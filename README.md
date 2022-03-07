@@ -1,4 +1,4 @@
-## Markdown转HTML生成导航目录
+## Markdown转HTML并生成导航目录
 
 ### 1. 引入
 
@@ -14,4 +14,4 @@
 
 ### 2. 导出
 
-然后用Typora导出为 html
+打开Typora设置主题为GitHub，然后选择导出为html
