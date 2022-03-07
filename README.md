@@ -1,11 +1,3 @@
-<script type="text/javascript" src="static/jquery-3.4.1.min.js"></script>
-
-<script type="text/javascript" src="static/outline.js"></script>
-
-<link rel="stylesheet" type="text/css" href="static/outline.css">
-
-
-
 ## Markdown转HTML生成导航目录
 
 ### 1. 引入
